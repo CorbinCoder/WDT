@@ -1,0 +1,13 @@
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CopyComplete
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+E:\2020\wdt\Lectures\_code\WDT_Day01\json\newtonsoft.json.net\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
